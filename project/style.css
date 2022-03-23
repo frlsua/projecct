@@ -1,0 +1,26 @@
+
+
+a {
+    color: cornflowerblue;
+    text-decoration: none;
+}
+ul {
+    list-style: none;
+}
+
+a:hover {
+    color: darkblue;
+    font-size: 16px;
+}
+
+input {
+    width: 200px;
+    height: 30px;
+}
+
+.button {
+    width: 150px;
+    height: 35px;
+    margin-top: 20px;
+    margin-left: 20px;
+}
